@@ -2,6 +2,7 @@
 <div align="center">
   
 # Hi there, I'm <span style="color:#4FC3F7">Tony Rodríguez</span> 👋  
+
 <p align="center" style="margin-top: 15px;">
   <a href="https://tony-r.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-808000?style=for-the-badge&logo=globe&logoColor=white" height="60"/>
@@ -16,10 +17,10 @@
     <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" height="60"/>
   </a>
 </p>
+
 Software Engineer | Full Stack Developer | AI & Machine Learning Enthusiast  
 
 📍 Barcelona, Spain • 🌐 [tony-r.com](https://tony-r.com) • ✉️ [tony.rod.bcn@gmail.com](mailto:tony.rod.bcn@gmail.com)  
-
 
 </div>
 
@@ -28,18 +29,17 @@ Software Engineer | Full Stack Developer | AI & Machine Learning Enthusiast
 ### About Me
 
 I’m a creative-minded **Software Engineer** passionate about building digital experiences that merge **technology, design, and human value**.  
-After completing **General Assembly’s Software Engineering Bootcamp (420+ hrs)** and **Harvard’s CS50 AI with Python**, I’ve focused on creating **AI-driven, full-stack applications** where innovation meets real-life impact.
+After completing **General Assembly’s Software Engineering Bootcamp (420+ hrs)** and **Harvard’s CS50 AI with Python**, I’ve focused on creating **AI-driven full stack applications** where innovation meets real-life impact.
 
-My background as an **entrepreneur, constructor and designer** in high-end residential architecture helps me bridge **creativity, logic, and real-world execution**.  
+My background as an **entrepreneur, constructor and designer** in high-end residential architecture helps me bridge **creativity, logic and real-world execution**.  
 For over six years, I led **[TotalHomes](https://totalhomes.es)** ([IG: @totalhomes.es](https://www.instagram.com/totalhomes.es)), a boutique construction and renovation company in Barcelona, where I designed and delivered elegant, human-centred homes from concept to completion.  
 
 I enjoy taking on complex problems and finding practical ways to solve them.  
-I don’t stop at “I don’t know” — I dig, test, and learn until I find a solution.  
-That persistence is what has allowed me to grow fast as an engineer.
+I don’t stop at “I don’t know.” I dig, test and learn until I find a solution.  
+That persistence has helped me grow quickly as an engineer.
 
-That hands-on experience with **design, clients, and problem-solving** now shapes how I build software — creating **intuitive, scalable, and meaningful digital products** that improve people’s lives.  
-I thrive in environments driven by **curiosity, autonomy, and purpose**.
-
+That hands-on experience with **design, clients and problem-solving** now shapes how I build software: creating **intuitive, scalable and meaningful digital products** that improve people’s lives.  
+I thrive in environments driven by **curiosity, autonomy and purpose**.
 
 ---
 
@@ -74,7 +74,6 @@ I thrive in environments driven by **curiosity, autonomy, and purpose**.
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" height="20"/> 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="20"/>
 
-
 </div>
 
 ---
@@ -82,13 +81,13 @@ I thrive in environments driven by **curiosity, autonomy, and purpose**.
 ### Featured Projects
 
 | Project | Stack | Description |
-|------------|----------|----------------|
-| **[TradeLab](https://trade-lab.netlify.app/)** | React, Django, PostgreSQL | Trading backtesting platform integrating real financial data — *recognized by GA instructors as one of the best projects ever seen.* |
-| **[Re-Lux](https://re-lux-frontend.netlify.app/)** | React, Node.js, MongoDB | Luxury second-hand e-commerce app with authentication, shopping cart, and cloud image management. |
-| **[BuildApp](https://buildapp-ga.netlify.app/)** | MEN Stack | Platform connecting clients with construction professionals — implemented auth, profiles, and responsive UI. |
+|----------|--------|-------------|
+| **[TradeLab](https://trade-lab.netlify.app/)** | React, Django, PostgreSQL | Trading backtesting platform integrating real financial data. Recognized by GA instructors as one of the best projects ever seen. |
+| **[Re-Lux](https://re-lux-frontend.netlify.app/)** | React, Node.js, MongoDB | Luxury second-hand e-commerce app with authentication, shopping cart and cloud image management. |
+| **[BuildApp](https://buildapp-ga.netlify.app/)** | MEN Stack | Platform connecting clients with construction professionals; includes authentication, profiles and responsive UI. |
 | **[Tetris AI](https://github.com/TonyRod116/T-Tetris)** | JavaScript | Heuristic AI bot recreating the classic game with custom physics and look-ahead logic. |
 
-➡️ *Explore more projects on my [PORTFOLIO](https://tony-r.com)*
+➡️ *Explore more projects on my [portfolio](https://tony-r.com).*
 
 ---
 
@@ -96,11 +95,10 @@ I thrive in environments driven by **curiosity, autonomy, and purpose**.
 
 > “Technology is most powerful when it amplifies human potential.”  
 
-I care about **human-centred tech, AI ethics, and sustainability**, and I’m passionate about using technology to make life simpler, smarter, or more enjoyable.  
-I’ve always been drawn to challenges — when something feels complex or out of reach, I find a way to make it work.  
-That mix of **curiosity, discipline, and persistence** defines how I approach everything I build.  
-Beyond code, I care about **creating things that make people feel or live better** — tools, designs, or systems that offer real help, usefulness, or even a moment of joy when someone uses them.
-
+I care about **human-centred tech, AI ethics and sustainability**, and I’m passionate about using technology to make life simpler, smarter or more enjoyable.  
+I’ve always been drawn to challenges; when something feels complex or out of reach, I find a way to make it work.  
+That mix of **curiosity, discipline and persistence** defines how I approach everything I build.  
+Beyond code, I focus on **creating things that make people feel or live better** — tools, designs or systems that bring real help, usefulness or even a small moment of joy when someone uses them.
 
 ---
 
