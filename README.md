@@ -5,8 +5,8 @@
 ### 💻 Software Engineer | Full Stack Developer | AI & Machine Learning Enthusiast  
 
 📍 Barcelona, Spain • 🌐 [tony-r.com](https://tony-r.com) • ✉️ [tony.rod.bcn@gmail.com](mailto:tony.rod.bcn@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/tony-rod)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white)](https://tony-r.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/tony-rod)
 [![GitHub Followers](https://img.shields.io/github/followers/TonyRod116?label=Follow&style=social)](https://github.com/TonyRod116)
 
 </div>
@@ -18,8 +18,9 @@
 I’m a creative-minded **Software Engineer** passionate about building digital experiences that merge **technology, design, and human value**.  
 After completing **General Assembly’s Software Engineering Bootcamp (420+ hrs)** and **Harvard’s CS50 AI with Python**, I’ve focused on creating **AI-driven, full-stack applications** where innovation meets real-life impact.
 
-> My background as an **entrepreneur, constructor and designer** in high-end residential architecture helps me bridge **creativity, logic, and real-world execution**.  
+My background as an **entrepreneur, constructor and designer** in high-end residential architecture helps me bridge **creativity, logic, and real-world execution**.  
 For over six years, I led **[TotalHomes](https://totalhomes.es)** ([Instagram ➜ @totalhomes.es](https://www.instagram.com/totalhomes.es)), a boutique construction and renovation company in Barcelona, where I designed and delivered elegant, human-centred homes from concept to completion.  
+
 That hands-on experience with **design, clients, and problem-solving** now shapes how I build software — creating **intuitive, scalable, and meaningful digital products** that improve people’s lives.  
 I thrive in environments driven by **curiosity, autonomy, and purpose**.
 
@@ -37,7 +38,7 @@ I thrive in environments driven by **curiosity, autonomy, and purpose**.
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | 🧩 Project | ⚙️ Stack | 💡 Description |
 |------------|----------|----------------|
@@ -50,7 +51,7 @@ I thrive in environments driven by **curiosity, autonomy, and purpose**.
 
 ---
 
-### 🧰 Toolbox
+### Toolbox
 
 <div align="center">
 
@@ -85,7 +86,7 @@ I thrive in environments driven by **curiosity, autonomy, and purpose**.
 
 ---
 
-### 🤝 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/tony-rod" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28"/></a>
@@ -96,7 +97,7 @@ I thrive in environments driven by **curiosity, autonomy, and purpose**.
 
 ---
 
-### 🌱 Beyond Code
+### Beyond Code
 
 > “Technology is most powerful when it amplifies human potential.”  
 I care about **human-centred tech, AI ethics, sustainability**, and projects that make life simpler and smarter.  
@@ -104,5 +105,5 @@ Outside of coding, I enjoy **design, AI research, and building tools that empowe
 
 ---
 
-⭐️ *Let’s build something that matters.*
+*Let’s build something that matters.*
 
