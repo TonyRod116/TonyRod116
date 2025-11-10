@@ -86,7 +86,7 @@ I thrive in environments driven by **curiosity, autonomy, and purpose**.
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="60"/>
   </a>
   <a href="https://tony-r.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=safari&logoColor=white" height="60"/>
+    <img src="https://img.shields.io/badge/Portfolio-808000?style=for-the-badge&logo=world&logoColor=white" height="60"/>
   </a>
   <a href="https://github.com/TonyRod116" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" height="60"/>
