@@ -31,7 +31,7 @@ I’m a creative-minded **Software Engineer** passionate about building digital 
 After completing **General Assembly’s Software Engineering Bootcamp (420+ hrs)** and **Harvard’s CS50 AI with Python**, I’ve focused on creating **AI-driven, full-stack applications** where innovation meets real-life impact.
 
 My background as an **entrepreneur, constructor and designer** in high-end residential architecture helps me bridge **creativity, logic, and real-world execution**.  
-For over six years, I led **[TotalHomes](https://totalhomes.es)** ([Instagram ➜ @totalhomes.es](https://www.instagram.com/totalhomes.es)), a boutique construction and renovation company in Barcelona, where I designed and delivered elegant, human-centred homes from concept to completion.  
+For over six years, I led **[TotalHomes](https://totalhomes.es)** ([IG: @totalhomes.es](https://www.instagram.com/totalhomes.es)), a boutique construction and renovation company in Barcelona, where I designed and delivered elegant, human-centred homes from concept to completion.  
 
 I enjoy taking on complex problems and finding practical ways to solve them.  
 I don’t stop at “I don’t know” — I dig, test, and learn until I find a solution.  
