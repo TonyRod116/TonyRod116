@@ -75,8 +75,8 @@ I thrive in environments driven by **curiosity, autonomy and purpose**.
 | Project | Stack | Description |
 |--------|--------|-------------|
 | **[TradeLab](https://trade-lab.netlify.app/)** | React, Django, PostgreSQL | Trading backtesting platform integrating real financial data. Recognized by GA instructors as one of the best projects ever seen. |
-| **[Re-Lux](https://re-lux-frontend.netlify.app/)** | React, Node.js, MongoDB | Luxury second-hand e-commerce app with authentication, shopping cart and cloud image management. |
 | **[BuildApp](https://buildapp-ga.netlify.app/)** | MEN Stack | Platform connecting clients with construction professionals; includes authentication, profiles and responsive UI. |
+| **[Re-Lux](https://re-lux-frontend.netlify.app/)** | React, Node.js, MongoDB | Luxury second-hand e-commerce app with authentication, shopping cart and cloud image management. |
 | **[Tetris AI](https://github.com/TonyRod116/T-Tetris)** | JavaScript | Heuristic AI bot recreating the classic game with custom physics and look-ahead logic. |
 
 ➡️ *Explore more projects on my [portfolio](https://tony-r.com).*
