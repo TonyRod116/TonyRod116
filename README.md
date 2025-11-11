@@ -84,7 +84,6 @@ I thrive in environments driven by **curiosity, autonomy and purpose**.
 **[Nim RL Agent](https://tony-r.com/)** | Python, Reinforcement Learning, Q-Learning, Exploration–Exploitation | Reinforcement learning agent trained with Q-learning to develop adaptive gameplay through experience. |
 | **[BERT Mask Visualizer](https://github.com/TonyRod116/ai-attention)** | Python, TensorFlow, Transformers, PIL | BERT-powered masked language model with custom visualization of attention heads. Generates visual attention maps and token-level predictions using Hugging Face’s Transformers API. Includes analytical layer reports explaining internal model interpretability. |
 
-➡️ *Explore all projects, code and live demos on my [portfolio](https://tony-r.com).*
 
 
 
