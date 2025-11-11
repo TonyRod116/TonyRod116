@@ -79,9 +79,9 @@ I thrive in environments driven by **curiosity, autonomy and purpose**.
 | **[BuildApp](https://buildapp-ga.netlify.app/)** | MEN Stack (Mongo, Express, Node) | Platform connecting clients with construction professionals. Includes authentication, user roles, ratings, and secure project management. Real-world prototype for the construction-tech startup currently under development. |
 | **[Re-Lux](https://re-lux-frontend.netlify.app/)** | React, Node.js, MongoDB | Luxury second-hand e-commerce web app with authentication, product management, and integrated Cloudinary image storage. Features user profiles, shopping cart, and dynamic item filtering. |
 | **AI Games Collection** | Python, TensorFlow, Logic, Reinforcement Learning | A collection of AI-driven games and simulations implemented from scratch:  
-**[Minesweeper AI](https://tony-r.com/ai/minesweeper)** – Knowledge-based reasoning system that infers safe cells logically using constraint propagation.  
-**[TicTacToe Minimax](https://tony-r.com/ai/tictactoe)** – Perfect-play algorithm applying the Minimax decision tree for optimal strategy prediction.  
-**[Nim RL Agent](https://tony-r.com/)** – Reinforcement learning agent trained with Q-learning to develop adaptive gameplay through experience. |
+**[Minesweeper AI](https://tony-r.com/ai/minesweeper)** | | Knowledge-based reasoning system that infers safe cells logically using constraint propagation.  
+**[TicTacToe Minimax](https://tony-r.com/ai/tictactoe)** | |Perfect-play algorithm applying the Minimax decision tree for optimal strategy prediction.  
+**[Nim RL Agent](https://tony-r.com/)** | | Reinforcement learning agent trained with Q-learning to develop adaptive gameplay through experience. |
 | **[BERT Mask Visualizer](https://github.com/TonyRod116/ai-attention)** | Python, TensorFlow, Transformers, PIL | BERT-powered masked language model with custom visualization of attention heads. Generates visual attention maps and token-level predictions using Hugging Face’s Transformers API. Includes analytical layer reports explaining internal model interpretability. |
 
 ➡️ *Explore all projects, code and live demos on my [portfolio](https://tony-r.com).*
