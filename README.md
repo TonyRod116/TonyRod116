@@ -64,6 +64,6 @@ I’ve traded blueprints for code, but my mindset remains the same: **precision,
 ### 🌱 Beyond the Screen
 > *"The best technology is the one that disappears into the user's life while making it better."*
 
-I am a deep believer in **AI Ethics**, **sustainable development**, and **persistent problem-solving**. If I don't know how something works, I will deconstruct it until I do. I thrive in environments that value autonomy, curiosity, and high-impact goals.
+I am a deep believer in **AI**, **sustainable development**, and **persistent problem-solving**. If I don't know how something works, I will deconstruct it until I do. I thrive in environments that value autonomy, curiosity, and high-impact goals.
 
 **Let's build the future together.**
