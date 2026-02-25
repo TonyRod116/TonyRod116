@@ -61,14 +61,6 @@ I’ve traded blueprints for code, but my mindset remains the same: **precision,
 
 ---
 
-### 📈 GitHub Ecosystem
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TonyRod116&show_icons=true&theme=tokyonight&count_private=true" alt="Tony's Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyRod116&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-</p>
-
----
-
 ### 🌱 Beyond the Screen
 > *"The best technology is the one that disappears into the user's life while making it better."*
 
