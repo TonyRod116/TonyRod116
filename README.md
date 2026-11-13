@@ -43,7 +43,7 @@ I’ve traded blueprints for code, but my mindset remains the same: **precision,
 | Category | Technologies |
 |-----------|-------------|
 | **AI & Data** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) |
 | **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 
@@ -51,13 +51,29 @@ I’ve traded blueprints for code, but my mindset remains the same: **precision,
 
 ### 🚀 Featured Projects
 
-#### 🧠 Artificial Intelligence & Logic
-* **[BERT Mask Visualizer](https://github.com/TonyRod116/ai-attention):** An interpretability tool that visualizes BERT’s internal attention heads to understand how LLMs process language.
-* **[AI Games Collection](https://tony-r.com/ai/minesweeper):** From **Inference Logic** in Minesweeper to a **Q-Learning Agent** in Nim that learns optimal play through experience.
+#### 🏗️ [BuildApp](https://buildapp.es/) · AI for renovations
+Founder and builder of a renovation platform for homeowners and professionals, bringing my construction experience into a real product.
 
-#### 💻 Full-Stack Development
-* **[TradeLab](https://trade-lab.netlify.app/):** Professional trading backtesting platform with financial data visualization. *Recognized as a top-tier project by General Assembly.*
-* **[BuildApp](https://buildapp-ga.netlify.app/):** The bridge between my two careers. A specialized platform connecting high-end construction professionals with clients.
+- **Client:** turn a photo and an idea into an AI-generated renovation visualization and an indicative cost; save projects, photos and ideas.
+- **Pro:** create editable, itemized renovation quotes from photos and a description, refine quantities and prices, add a visual simulation and share proposals by link, WhatsApp or PDF.
+- **Built for web and mobile**, combining product design, React, TypeScript, Python, APIs and collaboration with our CTO.
+
+[Explore BuildApp](https://buildapp.es/) · [BuildApp Pro](https://buildapp.es/pro/)
+
+#### ☀️ [Rato al Sol](https://github.com/TonyRod116/rato-al-sol-portfolio) · Find your spot in the sun
+An interactive web and iPhone app to explore sun and building shadows at different times of day. Search nearby outdoor places, choose a point on the map and compare estimated light throughout the day. Built with React Native, Expo, maps and solar geometry.
+
+[Explore the map](https://tony-r.com/rato-al-sol/) · [App Store](https://apps.apple.com/es/app/rato-al-sol/id6830366652) · [Project repository](https://github.com/TonyRod116/rato-al-sol-portfolio)
+
+#### 🏙️ [AI Desk Display](https://github.com/TonyRod116/ai-desk-display) · AI limits, with a view
+An open-source, animated display for Claude and Codex usage. An old tablet or compatible ESP32 touchscreen becomes a tiny city, arcade or other animated scene, with local display rendering, time-of-day lighting and optional weather.
+
+[Explore the project and try the demo](https://github.com/TonyRod116/ai-desk-display)
+
+#### 🧠 More projects
+* **[TradeLab](https://trade-lab.netlify.app/):** Trading backtesting platform with financial data visualization.
+* **[BERT Mask Visualizer](https://github.com/TonyRod116/ai-attention):** Visualizes BERT’s internal attention heads to explore how language models process text.
+* **[AI Games Collection](https://tony-r.com/ai/minesweeper):** Logic-based Minesweeper and a Q-learning agent for Nim.
 
 ---
 
