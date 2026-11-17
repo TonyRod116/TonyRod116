@@ -1,29 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="270" viewBox="0 0 600 270" role="img" aria-labelledby="title desc">
-  <title id="title">Good ideas deserve to get built.</title>
-  <desc id="desc">An amber sun and geometric buildings on a deep green background.</desc>
-  <rect width="600" height="270" rx="16" fill="#192b2b"/>
-  <g font-family="Arial, Helvetica, sans-serif">
-    <text x="28" y="35" fill="#edb65c" font-size="12" font-weight="700" letter-spacing="2">PRODUCT / CODE / CURIOSITY</text>
-    <text x="26" y="91" fill="#f6efe3" font-size="38" font-weight="700" letter-spacing="-1.2">Good ideas deserve</text>
-    <text x="26" y="135" fill="#f6efe3" font-size="38" font-weight="700" letter-spacing="-1.2">to get built<tspan fill="#edb65c">.</tspan></text>
-    <text x="28" y="190" fill="#c7d3cc" font-size="14">From renovation tools</text>
-    <text x="28" y="211" fill="#c7d3cc" font-size="14">to a seat in the sun.</text>
-  </g>
-  <circle cx="496" cy="109" r="42" fill="#edb65c"/>
-  <circle cx="496" cy="109" r="58" fill="none" stroke="#edb65c" stroke-opacity=".3"/>
-    <!-- Street-level view: facades and windows share two vanishing points. -->
-    <polygon points="433.00,156.00 400.00,166.41 400.00,236.12 433.00,239.00" fill="#395650" stroke="#9db6aa" stroke-width="1.5" stroke-linejoin="round"/>
-    <polygon points="426.16,175.01 418.06,176.88 418.06,189.97 426.16,188.65" fill="#edb65c"/>
-    <polygon points="413.12,178.02 406.02,179.66 406.02,191.92 413.12,190.77" fill="#edb65c"/>
-    <polygon points="426.16,198.28 418.06,199.20 418.06,212.29 426.16,211.92" fill="#edb65c"/>
-    <polygon points="413.12,199.77 406.02,200.58 406.02,212.84 413.12,212.52" fill="#84a69a"/>
-    <polygon points="433.00,156.00 466.00,163.30 466.00,236.98 433.00,239.00" fill="#28443e" stroke="#9db6aa" stroke-width="1.5" stroke-linejoin="round"/>
-    <polygon points="439.54,174.49 455.96,177.15 455.96,190.15 439.54,188.28" fill="#edb65c"/>
-    <polygon points="439.54,198.02 455.96,199.34 455.96,212.34 439.54,211.82" fill="#84a69a"/>
-    <polygon points="519.00,189.00 480.00,193.27 480.00,235.73 519.00,238.00" fill="#395650" stroke="#9db6aa" stroke-width="1.5" stroke-linejoin="round"/>
-    <polygon points="511.12,199.88 501.64,200.58 501.64,208.42 511.12,207.98" fill="#edb65c"/>
-    <polygon points="495.80,201.02 487.30,201.65 487.30,209.07 495.80,208.68" fill="#edb65c"/>
-    <polygon points="519.00,189.00 550.00,193.77 550.00,235.47 519.00,238.00" fill="#28443e" stroke="#9db6aa" stroke-width="1.5" stroke-linejoin="round"/>
-    <polygon points="525.36,199.95 532.94,200.74 532.94,208.52 525.36,208.03" fill="#edb65c"/>
-    <polygon points="537.58,201.23 544.28,201.93 544.28,209.25 537.58,208.82" fill="#84a69a"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-labelledby="title desc">
+<title id="title">Tony Rodríguez</title>
+<desc id="desc">Tony Rodríguez’s architectural TR monogram with an amber sun, beside his name on warm ivory.</desc>
+<defs><clipPath id="frame"><rect width="600" height="300" rx="16"/></clipPath></defs>
+<g clip-path="url(#frame)">
+<rect width="600" height="300" fill="#f4f0e6"/>
+<rect width="200" height="300" fill="#193b35"/>
+<g transform="translate(10 59) scale(.70)"><defs><clipPath id="mobile-counter"><path d="M108 72H160C184 72 198 84 198 104S184 134 160 134H108Z"/></clipPath></defs>
+<path fill="#f4f0e6" fill-rule="evenodd" d="M24 36H162C208 36 234 63 234 104C234 135 216 157 188 165L242 224H195L145 170H108V224H72V72H24ZM108 72V134H160C184 134 198 124 198 104S184 72 160 72Z"/>
+<g clip-path="url(#mobile-counter)"><circle cx="155" cy="123" r="23" fill="#dfaa57"/><path d="M108 134H198" stroke="#193b35" stroke-width="6"/></g></g>
+<g fill="#193b35" font-family="Georgia, 'Times New Roman', serif" letter-spacing="-1.8">
+<text x="234" y="133" font-size="68">Tony</text>
+<text x="233" y="204" font-size="65">Rodríguez<tspan fill="#dfaa57">.</tspan></text>
+</g></g></svg>

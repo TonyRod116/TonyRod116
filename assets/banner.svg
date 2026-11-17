@@ -1,43 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="280" viewBox="0 0 1120 280" role="img" aria-labelledby="title desc">
-  <title id="title">Good ideas deserve to get built.</title>
-  <desc id="desc">An amber sun rises over a geometric city. Product, code and curiosity, by Tony Rodríguez.</desc>
-  <defs>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#f6efe3" stroke-opacity=".055"/></pattern>
-    <clipPath id="frame"><rect width="1120" height="280" rx="16"/></clipPath>
-  </defs>
-  <g clip-path="url(#frame)">
-    <rect width="1120" height="280" fill="#192b2b"/>
-    <rect x="680" width="440" height="280" fill="url(#grid)"/>
-    <path d="M664 0V280" stroke="#f6efe3" stroke-opacity=".14"/>
-    <g font-family="Arial, Helvetica, sans-serif">
-      <text x="44" y="43" fill="#edb65c" font-size="12" font-weight="700" letter-spacing="2.8">PRODUCT / CODE / CURIOSITY</text>
-      <text x="40" y="112" fill="#f6efe3" font-size="52" font-weight="700" letter-spacing="-1.8">Good ideas deserve</text>
-      <text x="40" y="170" fill="#f6efe3" font-size="52" font-weight="700" letter-spacing="-1.8">to get built<tspan fill="#edb65c">.</tspan></text>
-      <path d="M44 208H75" stroke="#edb65c" stroke-width="3"/>
-      <text x="88" y="213" fill="#c7d3cc" font-size="14">From renovation tools to a seat in the sun.</text>
-    </g>
-    <circle cx="917" cy="114" r="61" fill="#edb65c"/>
-    <circle cx="917" cy="114" r="88" fill="none" stroke="#edb65c" stroke-opacity=".3"/>
-    <!-- Street-level view: facades and windows share two vanishing points. -->
-    <polygon points="792.00,134.00 742.00,148.24 742.00,241.70 792.00,246.00" fill="#395650" stroke="#9db6aa" stroke-width="1.5" stroke-linejoin="round"/>
-    <polygon points="781.59,159.67 769.28,162.22 769.28,179.83 781.59,178.06" fill="#edb65c"/>
-    <polygon points="761.80,163.77 751.08,165.99 751.08,182.45 761.80,180.90" fill="#edb65c"/>
-    <polygon points="781.59,191.03 769.28,192.26 769.28,209.86 781.59,209.42" fill="#edb65c"/>
-    <polygon points="761.80,193.00 751.08,194.07 751.08,210.53 761.80,210.14" fill="#84a69a"/>
-    <polygon points="792.00,134.00 842.00,142.63 842.00,243.39 792.00,246.00" fill="#28443e" stroke="#9db6aa" stroke-width="1.5" stroke-linejoin="round"/>
-    <polygon points="801.81,158.75 826.65,161.87 826.65,179.58 801.81,177.42" fill="#edb65c"/>
-    <polygon points="801.81,190.59 826.65,192.09 826.65,209.80 801.81,209.26" fill="#84a69a"/>
-    <polygon points="895.00,177.00 855.00,181.25 855.00,242.53 895.00,245.00" fill="#395650" stroke="#9db6aa" stroke-width="1.5" stroke-linejoin="round"/>
-    <polygon points="887.17,191.84 867.30,193.24 867.30,204.01 887.17,203.17" fill="#edb65c"/>
-    <polygon points="895.00,177.00 929.00,180.70 929.00,242.85 895.00,245.00" fill="#28443e" stroke="#9db6aa" stroke-width="1.5" stroke-linejoin="round"/>
-    <polygon points="901.58,191.76 918.45,192.98 918.45,203.86 901.58,203.13" fill="#edb65c"/>
-    <polygon points="988.00,151.00 955.00,155.57 955.00,241.48 988.00,243.00" fill="#395650" stroke="#9db6aa" stroke-width="1.5" stroke-linejoin="round"/>
-    <polygon points="981.72,170.95 965.40,172.57 965.40,187.51 981.72,186.39" fill="#edb65c"/>
-    <polygon points="981.72,197.29 965.40,198.04 965.40,212.97 981.72,212.73" fill="#edb65c"/>
-    <polygon points="988.00,151.00 1021.00,158.54 1021.00,240.49 988.00,243.00" fill="#28443e" stroke="#9db6aa" stroke-width="1.5" stroke-linejoin="round"/>
-    <polygon points="994.52,171.39 1002.46,172.70 1002.46,187.59 994.52,186.70" fill="#edb65c"/>
-    <polygon points="1007.41,173.51 1014.68,174.71 1014.68,188.97 1007.41,188.15" fill="#84a69a"/>
-    <polygon points="994.52,197.50 1002.46,198.10 1002.46,212.99 994.52,212.80" fill="#84a69a"/>
-    <polygon points="1007.41,198.48 1014.68,199.03 1014.68,213.29 1007.41,213.11" fill="#edb65c"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="350" viewBox="0 0 1120 350" role="img" aria-labelledby="title desc">
+<title id="title">Tony Rodríguez — Product, engineering and applied AI</title>
+<desc id="desc">A custom architectural TR monogram with an amber sun inside its arch, beside Tony Rodríguez’s wordmark.</desc>
+<defs><clipPath id="frame"><rect width="1120" height="350" rx="16"/></clipPath></defs>
+<g clip-path="url(#frame)">
+<rect width="1120" height="350" fill="#f4f0e6"/>
+<rect width="350" height="350" fill="#193b35"/>
+<g transform="translate(30 38) scale(1.08)"><defs><clipPath id="desktop-counter"><path d="M108 72H160C184 72 198 84 198 104S184 134 160 134H108Z"/></clipPath></defs>
+<path fill="#f4f0e6" fill-rule="evenodd" d="M24 36H162C208 36 234 63 234 104C234 135 216 157 188 165L242 224H195L145 170H108V224H72V72H24ZM108 72V134H160C184 134 198 124 198 104S184 72 160 72Z"/>
+<g clip-path="url(#desktop-counter)"><circle cx="155" cy="123" r="23" fill="#dfaa57"/><path d="M108 134H198" stroke="#193b35" stroke-width="6"/></g></g>
+<g fill="#193b35" font-family="Georgia, 'Times New Roman', serif" letter-spacing="-3">
+<text x="404" y="139" font-size="106">Tony</text>
+<text x="402" y="247" font-size="104">Rodríguez<tspan fill="#dfaa57">.</tspan></text>
+</g>
+<text x="408" y="302" fill="#193b35" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="2">PRODUCT · ENGINEERING · APPLIED AI</text>
+</g></svg>
