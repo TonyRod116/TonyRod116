@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/TonyRod116/TonyRod116/68e73f3bcb26f5e1f0065a90860fd5c0c2134b0b/assets/banner-mobile.svg">
-  <img src="https://raw.githubusercontent.com/TonyRod116/TonyRod116/68e73f3bcb26f5e1f0065a90860fd5c0c2134b0b/assets/banner.svg" width="1120" alt="Good ideas deserve to get built. I love AI. I build things with it. Detailed buildings and an amber sun.">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/TonyRod116/TonyRod116/79612401369f477900f88613ea8a08b7b0419aca/assets/banner-mobile.svg">
+  <img src="https://raw.githubusercontent.com/TonyRod116/TonyRod116/79612401369f477900f88613ea8a08b7b0419aca/assets/banner.svg" width="1120" alt="Good ideas deserve to get built. Software engineer. Passionate about AI. A minimal city and sun symbol.">
 </picture>
 
 # Tony Rodríguez
@@ -9,7 +9,7 @@
 
 I build products around things I know and problems I run into: renovating a home, finding a sunny terrace, or keeping an eye on my AI tools. I work across product, full-stack engineering and applied AI, from the first sketch to the shipped app.
 
-**I love AI:** understanding how it works, experimenting with it and turning that curiosity into useful products.
+**Software engineering is my craft; AI is a particular passion.** I enjoy exploring the algorithms, models and systems behind it, and putting that understanding into practice.
 
 **[Portfolio](https://tony-r.com/)** &nbsp; / &nbsp; **[LinkedIn](https://www.linkedin.com/in/tony-rod/)** &nbsp; / &nbsp; **[Say hello](mailto:tony.rod.bcn@gmail.com)**
 
@@ -105,7 +105,7 @@ I founded [Total Homes](https://totalhomes.es/) before moving into software. Wor
 
 Soy Tony, fundador de BuildApp e ingeniero de software en Barcelona. Antes dirigía una empresa de reformas; ahora construyo productos a partir de problemas que conozco de cerca.
 
-**Me encanta la IA:** entender cómo funciona, experimentar con ella y convertir esa curiosidad en cosas útiles.
+**Soy ingeniero de software y me apasiona la IA.** Me interesa entender los algoritmos, modelos y sistemas que hay detrás, experimentar con ellos y llevar ese conocimiento a la práctica.
 
 **BuildApp** ayuda tanto a quien reforma su casa como al profesional que prepara el presupuesto. **Rato al Sol** te permite explorar dónde podría dar el sol en Madrid y Barcelona. Y con **AI Desk Display** he convertido pantallas olvidadas en pequeños escenarios para consultar el uso de mis herramientas de IA.
 
