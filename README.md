@@ -1,85 +1,114 @@
-<!-- Tony Rodríguez | Software Engineer -->
-<div align="center">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/banner-mobile.svg">
+  <img src="assets/banner.svg" width="1120" alt="Good ideas deserve to get built. From renovation tools to a seat in the sun.">
+</picture>
 
-# <span style="color:#4FC3F7">Tony Rodríguez</span> 👋
-### **Software Engineer | AI & Machine Learning Specialist**
+# Tony Rodríguez
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=globe&logoColor=white)](https://tony-r.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tony-rod)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tony.rod.bcn@gmail.com)
+**Founder of [BuildApp](https://buildapp.es/) · Software engineer · Barcelona**
 
-**"For 6 years, I built high-end homes. Now, I architect intelligent digital systems."**
-📍 Barcelona, Spain
+I build products around things I know and problems I run into: renovating a home, finding a sunny terrace, or keeping an eye on my AI tools. I work across product, full-stack engineering and applied AI, from the first sketch to the shipped app.
 
-</div>
+**[Portfolio](https://tony-r.com/)** &nbsp; / &nbsp; **[LinkedIn](https://www.linkedin.com/in/tony-rod/)** &nbsp; / &nbsp; **[Say hello](mailto:tony.rod.bcn@gmail.com)**
+
+## What I’m building
+
+### BuildApp · From a room photo to a renovation proposal
+
+Before software, I ran a renovation business. Now I’m turning that experience into a product for the people on both sides of the work.
+
+**One app, two experiences:**
+
+- **Client:** photograph a room, describe the change and explore an AI visualization with an indicative cost. Keep ideas and photos together for a conversation with a professional.
+- **Professional:** turn site photos and a description into an editable, itemized quote. Review quantities, prices and VAT, add a visual proposal, then share by WhatsApp, link or PDF.
+
+Available on **iPhone and Android**, with **Pro also in the browser**. Each account chooses Client or Professional at registration.
+
+<p align="center">
+  <a href="https://buildapp.es/">
+    <img src="https://raw.githubusercontent.com/TonyRod116/tony-r.com/main/src/assets/projects/buildapp-client-simulation-store-2026-10-24.webp" width="195" alt="BuildApp Client: official app screenshot showing an AI renovation simulation and indicative cost.">
+  </a>
+  &nbsp;
+  <a href="https://buildapp.es/pro/">
+    <img src="https://raw.githubusercontent.com/TonyRod116/tony-r.com/main/src/assets/projects/buildapp-pro-quote-store-2026-10-24.webp" width="195" alt="BuildApp Professional: official app screenshot showing a renovation quote with line items.">
+  </a>
+  <br>
+  <sub>Client + Professional · Official store screenshots with illustrative content.</sub>
+</p>
+
+I lead the company and stay hands-on across product, the professional frontend, mobile delivery and integrations, working with our CTO on the backend and AI workflows.
+
+**[Explore BuildApp →](https://buildapp.es/)** · **[Open Pro on the web](https://buildapp.es/pro/)**
+
+### Rato al Sol · “Will that terrace still be sunny at five?”
+
+A small everyday question became a web and iPhone app. Explore **Madrid and Barcelona**, move the time slider, tap a spot and compare its estimated sun and shade through the day. Search nearby outdoor places by time and distance.
+
+<a href="https://tony-r.com/rato-al-sol/">
+  <img src="https://raw.githubusercontent.com/TonyRod116/rato-al-sol-portfolio/main/docs/screenshots/web-puerta-del-sol.jpg" width="840" alt="Rato al Sol web map: estimated building shadows around Puerta del Sol, Madrid, at 13:40.">
+</a>
+
+<sub>Actual web demo · Building-shadow estimates; trees, awnings and clouds can change the light on the ground.</sub>
+
+The interesting part under the map: **shared solar geometry**, building-height data and shadow projection. The mobile app uses **React Native and Expo**; the web and mobile share the calculation engine.
+
+**[Find your sun →](https://tony-r.com/rato-al-sol/)** · **[Get it for iPhone](https://apps.apple.com/es/app/rato-al-sol/id6830366652)** · **[Explore the code](https://github.com/TonyRod116/rato-al-sol-portfolio)**
+
+### AI Desk Display · A second life for an old screen
+
+An old tablet or a compatible ESP32 touchscreen becomes an animated display for **Claude and Codex usage**. Tiny cities, coastal drives and arcade scenes, with optional weather and computer stats. The display runs locally; enabled readers fetch usage from the official providers.
+
+<p align="center">
+  <a href="https://github.com/TonyRod116/ai-desk-display">
+    <img src="https://raw.githubusercontent.com/TonyRod116/ai-desk-display/main/docs/images/tablet-city-dashboard.png" width="230" alt="AI Desk Display: an isometric city above a tablet dashboard with illustrative AI quotas and computer statistics.">
+  </a>
+  <br>
+  <sub>Isometric City · Preview uses fictional readings.</sub>
+</p>
+
+**[Build your own →](https://github.com/TonyRod116/ai-desk-display)**
+
+<details>
+<summary><strong>See the city come to life</strong></summary>
+
+<img src="https://raw.githubusercontent.com/TonyRod116/ai-desk-display/main/docs/images/tablet-isometric-weather.gif" width="280" alt="Animated Isometric City preview cycling through day, sunset, night and rain, with fictional AI readings.">
+
+<sub>Accelerated time and simulated weather. Collapse this section to hide the animation.</sub>
+
+</details>
+
+## A few more things to explore
+
+- **[Interactive AI lab](https://tony-r.com/ai):** draw a digit and inspect a neural network’s activations and gradients, or try search and logic through games.
+- **[TradeLab](https://github.com/TonyRod116/TradingLab):** a backtesting project combining React, Django, PostgreSQL and market-data processing in Python.
+- **[BERT attention visualizer](https://github.com/TonyRod116/ai-attention):** explore how attention heads connect tokens in a sentence.
+
+## How I got here
+
+I founded [Total Homes](https://totalhomes.es/) before moving into software. Working with customers, budgets and real buildings still shapes how I make product decisions: understand the problem, make something concrete, test it and keep improving it.
+
+**I work with:** Python · TypeScript / JavaScript · React · React Native / Expo · Capacitor · FastAPI · Node.js · Django · PostgreSQL · AWS S3 · Playwright.
+
+<details>
+<summary><strong>Education & foundations</strong></summary>
+
+- **General Assembly** · Software Engineering Immersive.
+- **Harvard CS50 AI** · Search, logic, uncertainty, machine learning and language.
+- **Stanford / DeepLearning.AI** · Machine Learning Specialization.
+
+</details>
+
+<details>
+<summary><strong>En castellano</strong></summary>
+
+Soy Tony, fundador de BuildApp e ingeniero de software en Barcelona. Antes dirigía una empresa de reformas; ahora construyo productos a partir de problemas que conozco de cerca.
+
+**BuildApp** ayuda tanto a quien reforma su casa como al profesional que prepara el presupuesto. **Rato al Sol** te permite explorar dónde podría dar el sol en Madrid y Barcelona. Y con **AI Desk Display** he convertido pantallas olvidadas en pequeños escenarios para consultar el uso de mis herramientas de IA.
+
+Puedes probar los proyectos en los enlaces de arriba o [escribirme](mailto:tony.rod.bcn@gmail.com).
+
+</details>
 
 ---
 
-### 🧱 The "Builder" DNA
-My background as an entrepreneur and designer in luxury architecture (Founder of **[TotalHomes](https://totalhomes.es)**) gave me a unique edge: I know how to transform a complex vision into a tangible, high-quality reality. 
-
-I’ve traded blueprints for code, but my mindset remains the same: **precision, creativity, and human-centered execution.** I specialize in bridging the gap between sophisticated **AI algorithms** and **Full Stack applications** that solve real-world problems.
-
----
-
-### 🎓 Specialized Education & Certifications
-
-#### **AI & Machine Learning**
-* **Machine Learning Specialization** *(DeepLearning.AI & Stanford University)*
-    * **Supervised Learning:** Linear/Logistic Regression, Neural Networks, Decision Trees.
-    * **Advanced Algorithms:** Random Forests, XGBoost, and Functional Neural Networks with TensorFlow.
-    * **Unsupervised Learning:** K-means Clustering, Anomaly Detection, Recommender Systems (Collaborative & Content-based), and Reinforcement Learning.
-* **CS50’s Introduction to Artificial Intelligence with Python** *(Harvard University)*
-    * Foundations of modern AI: Graph Search, Minimax (Adversarial Search), Knowledge-based Agents (Logic Inference), Bayesian Networks, Markov Models, and Natural Language Processing (NLP).
-
-#### **Software Engineering**
-* **Software Engineering Immersive** *(General Assembly)*
-    * 420+ hours of professional-grade full-stack training, focusing on modern web architectures, Agile methodologies, and scalable database design.
-
----
-
-### 🛠️ Technical Toolbox
-
-| Category | Technologies |
-|-----------|-------------|
-| **AI & Data** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat&logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-
----
-
-### 🚀 Featured Projects
-
-#### 🏗️ [BuildApp](https://buildapp.es/) · AI for renovations
-Founder and builder of a renovation platform for homeowners and professionals, bringing my construction experience into a real product.
-
-- **Client:** turn a photo and an idea into an AI-generated renovation visualization and an indicative cost; save projects, photos and ideas.
-- **Pro:** create editable, itemized renovation quotes from photos and a description, refine quantities and prices, add a visual simulation and share proposals by link, WhatsApp or PDF.
-- **Built for web and mobile**, combining product design, React, TypeScript, Python, APIs and collaboration with our CTO.
-
-[Explore BuildApp](https://buildapp.es/) · [BuildApp Pro](https://buildapp.es/pro/)
-
-#### ☀️ [Rato al Sol](https://github.com/TonyRod116/rato-al-sol-portfolio) · Find your spot in the sun
-An interactive web and iPhone app to explore sun and building shadows at different times of day. Search nearby outdoor places, choose a point on the map and compare estimated light throughout the day. Built with React Native, Expo, maps and solar geometry.
-
-[Explore the map](https://tony-r.com/rato-al-sol/) · [App Store](https://apps.apple.com/es/app/rato-al-sol/id6830366652) · [Project repository](https://github.com/TonyRod116/rato-al-sol-portfolio)
-
-#### 🏙️ [AI Desk Display](https://github.com/TonyRod116/ai-desk-display) · AI limits, with a view
-An open-source, animated display for Claude and Codex usage. An old tablet or compatible ESP32 touchscreen becomes a tiny city, arcade or other animated scene, with local display rendering, time-of-day lighting and optional weather.
-
-[Explore the project and try the demo](https://github.com/TonyRod116/ai-desk-display)
-
-#### 🧠 More projects
-* **[TradeLab](https://trade-lab.netlify.app/):** Trading backtesting platform with financial data visualization.
-* **[BERT Mask Visualizer](https://github.com/TonyRod116/ai-attention):** Visualizes BERT’s internal attention heads to explore how language models process text.
-* **[AI Games Collection](https://tony-r.com/ai/minesweeper):** Logic-based Minesweeper and a Q-learning agent for Nim.
-
----
-
-### 🌱 Beyond the Screen
-> *"The best technology is the one that disappears into the user's life while making it better."*
-
-I am a deep believer in **AI**, **sustainable development**, and **persistent problem-solving**. If I don't know how something works, I will deconstruct it until I do. I thrive in environments that value autonomy, curiosity, and high-impact goals.
-
-**Let's build the future together.**
+Have something useful in mind? **[Let’s talk.](mailto:tony.rod.bcn@gmail.com)**
