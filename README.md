@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/TonyRod116/TonyRod116/be2d11cb73b9ba1628dfcbdd32664a978b7631fe/assets/banner-mobile.svg">
-  <img src="https://raw.githubusercontent.com/TonyRod116/TonyRod116/be2d11cb73b9ba1628dfcbdd32664a978b7631fe/assets/banner.svg" width="1120" alt="Good ideas deserve to get built. From renovation tools to a seat in the sun.">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/TonyRod116/TonyRod116/9450e15593264e42bba66020770030d23793da34/assets/banner-mobile.svg">
+  <img src="https://raw.githubusercontent.com/TonyRod116/TonyRod116/9450e15593264e42bba66020770030d23793da34/assets/banner.svg" width="1120" alt="Tony Rodríguez — custom TR monogram with an amber sun. Product, engineering and applied AI.">
 </picture>
 
 # Tony Rodríguez
