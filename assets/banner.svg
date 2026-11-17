@@ -18,17 +18,26 @@
     </g>
     <circle cx="917" cy="114" r="61" fill="#edb65c"/>
     <circle cx="917" cy="114" r="88" fill="none" stroke="#edb65c" stroke-opacity=".3"/>
-    <path d="M710 235H1080" stroke="#9db6aa" stroke-width="1.5"/>
-    <path d="M742 235V146L792 123L842 146V235Z" fill="#395650" stroke="#9db6aa" stroke-width="1.5"/>
-    <path d="M792 123V235M742 146L792 169L842 146" fill="none" stroke="#9db6aa" stroke-width="1.5"/>
-    <path d="M761 163V181L778 189V171ZM761 198V216L778 224V206Z" fill="#edb65c"/>
-    <path d="M808 175V192L824 185V168ZM808 207V224L824 217V200Z" fill="#84a69a"/>
-    <path d="M855 235V177H929V235" fill="#263f3b" stroke="#9db6aa" stroke-width="1.5"/>
-    <path d="M867 190H880V203H867ZM891 190H904V203H891ZM891 216H904V235H891Z" fill="#edb65c"/>
-    <path d="M955 235V161L988 145L1021 161V235" fill="#395650" stroke="#9db6aa" stroke-width="1.5"/>
-    <path d="M988 145V235M955 161L988 177L1021 161" fill="none" stroke="#9db6aa" stroke-width="1.5"/>
-    <path d="M967 180V196L978 201V185ZM967 207V223L978 228V212Z" fill="#edb65c"/>
-    <path d="M1000 184V201L1010 196V179ZM1000 212V229L1010 224V207Z" fill="#84a69a"/>
-    <path d="M929 235L978 259M1021 235L1070 259M842 235L891 259" stroke="#edb65c" stroke-opacity=".32" stroke-width="2"/>
+    <!-- Street-level view: facades and windows share two vanishing points. -->
+    <polygon points="792.00,134.00 742.00,148.24 742.00,241.70 792.00,246.00" fill="#395650" stroke="#9db6aa" stroke-width="1.5" stroke-linejoin="round"/>
+    <polygon points="781.59,159.67 769.28,162.22 769.28,179.83 781.59,178.06" fill="#edb65c"/>
+    <polygon points="761.80,163.77 751.08,165.99 751.08,182.45 761.80,180.90" fill="#edb65c"/>
+    <polygon points="781.59,191.03 769.28,192.26 769.28,209.86 781.59,209.42" fill="#edb65c"/>
+    <polygon points="761.80,193.00 751.08,194.07 751.08,210.53 761.80,210.14" fill="#84a69a"/>
+    <polygon points="792.00,134.00 842.00,142.63 842.00,243.39 792.00,246.00" fill="#28443e" stroke="#9db6aa" stroke-width="1.5" stroke-linejoin="round"/>
+    <polygon points="801.81,158.75 826.65,161.87 826.65,179.58 801.81,177.42" fill="#edb65c"/>
+    <polygon points="801.81,190.59 826.65,192.09 826.65,209.80 801.81,209.26" fill="#84a69a"/>
+    <polygon points="895.00,177.00 855.00,181.25 855.00,242.53 895.00,245.00" fill="#395650" stroke="#9db6aa" stroke-width="1.5" stroke-linejoin="round"/>
+    <polygon points="887.17,191.84 867.30,193.24 867.30,204.01 887.17,203.17" fill="#edb65c"/>
+    <polygon points="895.00,177.00 929.00,180.70 929.00,242.85 895.00,245.00" fill="#28443e" stroke="#9db6aa" stroke-width="1.5" stroke-linejoin="round"/>
+    <polygon points="901.58,191.76 918.45,192.98 918.45,203.86 901.58,203.13" fill="#edb65c"/>
+    <polygon points="988.00,151.00 955.00,155.57 955.00,241.48 988.00,243.00" fill="#395650" stroke="#9db6aa" stroke-width="1.5" stroke-linejoin="round"/>
+    <polygon points="981.72,170.95 965.40,172.57 965.40,187.51 981.72,186.39" fill="#edb65c"/>
+    <polygon points="981.72,197.29 965.40,198.04 965.40,212.97 981.72,212.73" fill="#edb65c"/>
+    <polygon points="988.00,151.00 1021.00,158.54 1021.00,240.49 988.00,243.00" fill="#28443e" stroke="#9db6aa" stroke-width="1.5" stroke-linejoin="round"/>
+    <polygon points="994.52,171.39 1002.46,172.70 1002.46,187.59 994.52,186.70" fill="#edb65c"/>
+    <polygon points="1007.41,173.51 1014.68,174.71 1014.68,188.97 1007.41,188.15" fill="#84a69a"/>
+    <polygon points="994.52,197.50 1002.46,198.10 1002.46,212.99 994.52,212.80" fill="#84a69a"/>
+    <polygon points="1007.41,198.48 1014.68,199.03 1014.68,213.29 1007.41,213.11" fill="#edb65c"/>
   </g>
 </svg>

@@ -11,12 +11,19 @@
   </g>
   <circle cx="496" cy="109" r="42" fill="#edb65c"/>
   <circle cx="496" cy="109" r="58" fill="none" stroke="#edb65c" stroke-opacity=".3"/>
-  <path d="M381 231H571" stroke="#9db6aa" stroke-width="1.5"/>
-  <path d="M400 231V172L433 156L466 172V231Z" fill="#395650" stroke="#9db6aa" stroke-width="1.5"/>
-  <path d="M433 156V231M400 172L433 188L466 172" fill="none" stroke="#9db6aa" stroke-width="1.5"/>
-  <path d="M412 185V201L423 206V190ZM412 210V225L423 230V215Z" fill="#edb65c"/>
-  <path d="M444 192V207L455 202V187Z" fill="#84a69a"/>
-  <path d="M480 231V193H547V231" fill="#263f3b" stroke="#9db6aa" stroke-width="1.5"/>
-  <path d="M491 204H504V217H491ZM518 204H531V217H518Z" fill="#edb65c"/>
-  <path d="M466 231L501 248M547 231L582 248" stroke="#edb65c" stroke-opacity=".32" stroke-width="2"/>
+    <!-- Street-level view: facades and windows share two vanishing points. -->
+    <polygon points="433.00,156.00 400.00,166.41 400.00,236.12 433.00,239.00" fill="#395650" stroke="#9db6aa" stroke-width="1.5" stroke-linejoin="round"/>
+    <polygon points="426.16,175.01 418.06,176.88 418.06,189.97 426.16,188.65" fill="#edb65c"/>
+    <polygon points="413.12,178.02 406.02,179.66 406.02,191.92 413.12,190.77" fill="#edb65c"/>
+    <polygon points="426.16,198.28 418.06,199.20 418.06,212.29 426.16,211.92" fill="#edb65c"/>
+    <polygon points="413.12,199.77 406.02,200.58 406.02,212.84 413.12,212.52" fill="#84a69a"/>
+    <polygon points="433.00,156.00 466.00,163.30 466.00,236.98 433.00,239.00" fill="#28443e" stroke="#9db6aa" stroke-width="1.5" stroke-linejoin="round"/>
+    <polygon points="439.54,174.49 455.96,177.15 455.96,190.15 439.54,188.28" fill="#edb65c"/>
+    <polygon points="439.54,198.02 455.96,199.34 455.96,212.34 439.54,211.82" fill="#84a69a"/>
+    <polygon points="519.00,189.00 480.00,193.27 480.00,235.73 519.00,238.00" fill="#395650" stroke="#9db6aa" stroke-width="1.5" stroke-linejoin="round"/>
+    <polygon points="511.12,199.88 501.64,200.58 501.64,208.42 511.12,207.98" fill="#edb65c"/>
+    <polygon points="495.80,201.02 487.30,201.65 487.30,209.07 495.80,208.68" fill="#edb65c"/>
+    <polygon points="519.00,189.00 550.00,193.77 550.00,235.47 519.00,238.00" fill="#28443e" stroke="#9db6aa" stroke-width="1.5" stroke-linejoin="round"/>
+    <polygon points="525.36,199.95 532.94,200.74 532.94,208.52 525.36,208.03" fill="#edb65c"/>
+    <polygon points="537.58,201.23 544.28,201.93 544.28,209.25 537.58,208.82" fill="#84a69a"/>
 </svg>
